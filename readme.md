@@ -2,6 +2,17 @@ Damascus Information Retrieval It is a project for a search engine in Python and
  using a NLTK library and flask API
 
 
+توصيف Dataset المستخدمة :
+تم العمل في هذا المشروع على 2dataset هما )CACM,CISI )ويحتوي كل منهما على عدد 
+من documents حيث في كل document الدالالت التالية :
+)I ).للداللة على رقم document
+(T (.للداللة على عنوان document
+(A (.للداللة على كاتب هذه document 
+(W (.للداللة على محتوى document 
+documents 3204 على تحتوي CACM و documents 1460 على تحتوي CISI
+ولدينا ملفين استعالمات لالستعالم ضمن dataset وهما QRY.CISI و QRY.CACM
+ولدينا أيضا ملفين يحتويان على query relevant من أجل كل dataset وهما REL.CISIً 
+cacm.rel و
 
 توصيف خطوات المشروع :
 
