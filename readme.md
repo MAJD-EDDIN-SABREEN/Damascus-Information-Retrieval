@@ -1,5 +1,8 @@
 Damascus Information Retrieval It is a project for a search engine in Python and flutter web
  using a NLTK library and flask API
+
+
+
 توصيف خطوات المشروع :
 
 الخطوة الأولى (pre_processing)  :
