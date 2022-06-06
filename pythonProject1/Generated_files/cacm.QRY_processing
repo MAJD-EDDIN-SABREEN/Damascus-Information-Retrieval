@@ -1,0 +1,519 @@
+.I 1
+.W
+what articl exist which deal with tss time share system an 
+oper system for ibm comput 
+.N
+1 richard alexand comp serv langmuir lab tss 
+
+.I 2
+.W
+i am interest in articl written either by priev or udo pooch 
+.A
+priev b 
+pooch u 
+.N
+2 richard alexand comp serv langmuir lab author pooch or priev 
+
+.I 3
+.W
+intermedi languag use in construct of multi target compil tcoll 
+.N
+3 donna bergmark comp serv uri hall interm lang 
+
+.I 4
+.W
+im interest in mechan for commun between disjoint process 
+possibl but not exclus in a distribut environ i would 
+rather see descript of complet mechan with or without implement 
+a oppos to theoret work on the abstract problem remot procedur 
+call and messag pas are exampl of my interest 
+.N
+4 pavel curti comm mech for disjoint process 
+
+.I 5
+.W
+id like paper on design and implement of edit interfac 
+window manag command interpret etc the essenti issu are 
+human interfac design with view on improv to user effici 
+effect and satisfact 
+.N
+5 pavel curti edit interfac 
+
+
+.I 6
+.W
+interest in articl on robot motion plan particularli the 
+geometr and combinatori aspect we are not interest in the 
+dynam of arm motion 
+.N
+6 john hopcroft robot 
+
+.I 7
+.W
+i am interest in distribut algorithm concurr program in 
+which process commun and synchron by use messag pas 
+area of particular interest includ fault toler and techniqu 
+for understand the correct of these algorithm 
+.N
+7 fred schneider dist algorithm 
+
+.I 8
+.W
+address scheme for resourc in network resourc address in 
+network oper system 
+.N
+8 alison brown addr in network 
+
+.I 9
+.W
+secur consider in local network network oper system 
+and distribut system 
+.N
+9 alison brown secur in network 
+
+.I 10
+.W
+parallel languag languag for parallel comput 
+.N
+10 alec grimison comp serv uri hall parallel lang 
+
+.I 11
+.W
+setl veri high level languag 
+.N
+11 alec grimison setl veri high level lang 
+
+
+.I 12
+.W
+portabl oper system 
+.N
+12 ralph johnson portabl op sy 
+
+.I 13
+.W
+code optim for space effici 
+.N
+13 ralph johnson code opt for space 
+
+.I 14
+.W
+find all discus of optim implement of sort algorithm for 
+databas manag applic 
+.N
+14 kenneth wilson physic newman lab sort for databas 
+
+.I 15
+.W
+find all discus of horizont microcod optim with special 
+emphasi on optim of loop and global optim 
+.N
+15 kenneth wilson horizont microcod opt 
+
+.I 16
+.W
+find all descript of file handl in oper system base on 
+multipl process and messag pas 
+.N
+16 kenneth wilson file handl in dist sy 
+
+.I 17
+.W
+optim of intermedi and machin code 
+.N
+17 donna bergmark opt of intermedi code 
+
+.I 18
+.W
+languag and compil for parallel processor especi highli 
+horizont microcod machin code compact 
+.N
+18 donna bergmark lang for parallel proc 
+
+.I 19
+.W
+parallel algorithm 
+.N
+19 chanderjit bajaj parallel algorithm 
+
+
+.I 20
+.W
+graph theoret algorithm applic to spar matric 
+.N
+20 chanderjit bajaj graph alg for sparc matric 
+
+.I 21
+.W
+comput complex intract class complet reduct 
+algorithm and effici 
+.N
+21 jim mildrew 5 sep queri comp complex intract c c red alg eff 
+
+.I 22
+.W
+i am interest in hidden line and hidden surfac algorithm for 
+cylind toroid sphere and cone thi is a rather special 
+topic in comput graphic 
+.N
+22 walli dietrich hidden line and surf alg 
+
+.I 23
+.W
+distribut comput structur and algorithm 
+.N
+23 ozalp babaoglu dist comp struct alg 
+
+.I 24
+.W
+appli stochast process 
+.N
+24 ozalp babaoglu appl stochast proc 
+
+.I 25
+.W
+perform evalu and model of comput system 
+.N
+25 ozalp babaoglu perf eval 
+
+.I 26
+.W
+concurr control mechan in oper system 
+.N
+26 ozalp babaoglu concurr control 
+
+.I 27
+.W
+memori manag aspect of oper system 
+.N
+27 ozalp babaoglu memori manag 
+
+.I 28
+.W
+ani inform on packet radio network of particular interest are 
+algorithm for packet rout and for deal with chang in 
+network topographi i am not interest in the hardwar use in the 
+network 
+.N
+28 dean jagel packet radio net 
+
+.I 29
+.W
+number theoret algorithm especi involv prime number seri 
+siev and chine remaind theorem 
+.N
+29 paul pritchard num theoret alg 
+
+.I 30
+.W
+articl on text format system includ what you see is what you 
+get system exampl tnroff scribe bravo 
+.N
+30 dean krafft text formatt 
+
+.I 31
+.W
+id like to find articl describ the use of singular valu decomposit 
+in digit imag process applic includ find approxim 
+to the origin imag and restor imag that are subject to nois an 
+articl on the subject is hc andrew and cl patterson outer product 
+expans and their use in digit imag process american mathemat 
+monthli vol 82 
+.A
+andrew hc 
+patterson cl 
+.N
+31 bengt aspval sing valu decomp 
+
+.I 32
+.W
+id like to find articl describ graph algorithm that are base on 
+the eigenvalu decomposit or singular valu decomposit of the 
+ajac matrix for the graph im especi interest in ani heurist 
+algorithm for graph color and graph isomorph use thi method 
+.N
+32 bengt aspval graph alg eigenvalu decomp 
+
+.I 33
+.W
+articl about the sensit of the eigenvalu decomposit of real 
+matric in particular zero one matric im especi interest in 
+the separ of eigenspac correspond to distinct eigenvalu 
+articl on the subject 
+c davi and wm kahn the rotat of eigenvector by a permut 
+siam j numer analysi vol 7 no 1 1970 gw stewart error 
+bound for approxim invari subspac of close linear oper 
+siam j numer analysi vol 8 no 4 1971 
+.A
+davi c 
+kahn wm 
+stewart gw 
+.N
+33 bengt aspval sen of eigenv decomp of real matric 
+
+.I 34
+.W
+current interest in isol of root of polynomi there is an old 
+articl by heindel le in j acm vol 18 533 548 i would like to find 
+more recent materi 
+.A
+heindel le 
+.N
+34 gabi bracha isol of root polynomi 
+
+.I 35
+.W
+probabilist algorithm especi those deal with algebra and 
+symbol manipul some exampl 
+rabiin probabilist algorithm on finit field siam 
+waztch probabilist test of polynomi ident siam 
+.A
+rabinm 
+.N
+35 gabi bracha prob alg 
+
+.I 36
+.W
+fast algorithm for context free languag recognit or par 
+.N
+36 juri hartmani fast alg for lang recogpars 
+
+.I 37
+.W
+articl describ the relationship between data type and concurr 
+eg what is the type of a process when is a synchron attempt 
+between two process type correct in a messag pas system is there 
+ani notion of the type of messag ie ani way to check that the sender 
+of the messag and the receiv are both treat the bit stream a some 
+particular type 
+.N
+37 hal perkin comp sci cornel 
+
+.I 38
+.W
+what is the type of a modul i dont want the entir literatur on 
+abstract data type here but im not sure how to phrase thi to avoid it 
+im interest in question about how one can check that a modul match 
+context in which it is use 
+.N
+38 hal perkin 
+
+.I 39
+.W
+what doe type compat mean in languag that allow programm 
+defin type you might want to restrict thi to extens languag 
+that allow definit of abstract data type or programm suppli 
+definit of oper like 
+.N
+39 hal perkin 
+
+.I 40
+.W
+list all articl deal with data type in the follow languag 
+pascal clu alphard russel ada algol 68 el1 list ani other languag 
+that are referenc frequent in paper on the abov languag eg catch 
+ani languag with interest type structur that i might have miss 
+.N
+40 hal perkin 
+
+.I 41
+.W
+theori of distribut system and databas subtop of special 
+interest includ reliabl and fault toler in distribut system 
+atom distribut transact synchron algorithm 
+resourc alloc lower bound and model for asynchron parallel 
+system also theori of commun process and protocol 
+.N
+41 michael j fischer comput sci yale univ 10 hillhous ave 
+po box 2158 yale station new haven conn 06520 
+
+.I 42
+.W
+comput perform evalu techniqu use pattern recognit 
+and cluster 
+.N
+42 georg r cross lousiana state univ comp sci dept baton roug 
+la 70803 
+
+.I 43
+.W
+analysi and percept of shape by human and comput shape 
+descript shape recognit by comput two dimension shape 
+measur of circular shape match 
+.N
+43 georg r cross 
+
+.I 44
+.W
+textur analysi by comput digit textur analysi textur 
+synthesi percept of textur 
+.N
+44 georg r cross 
+
+.I 45
+.W
+the use of oper research model to optim inform system 
+perform thi includ fine tune decis such a secondari index 
+select file reorgan and distribut databas 
+.N
+45 donald kraft louisiano state univ comp sci 
+
+.I 46
+.W
+the applic of fuzzi subset theori to cluster and inform 
+retriev problem thi includ perform evalu and automat 
+index consider 
+.N
+46 donald kraft 
+
+.I 47
+.W
+the use of bayesian decis model to optim inform retriev 
+system perform thi includ stop rule to determin when a 
+user should ceas scan the output of a retriev search 
+.N
+47 donald kraft 
+
+.I 48
+.W
+the use of comput scienc principl eg data structur 
+numer method in gener optim eg linear program 
+algorithm thi includ issu of the khachian russian ellipsoid 
+algorithm and complex of such algorithm 
+.N
+48 donald kraft 
+
+.I 49
+.W
+the role of inform retriev in knowledg base system 
+ie expert system 
+.N
+49 donald h kraft 
+
+.I 50
+.W
+parallel processor in inform retriev 
+.N
+50 walter rudd louisiana state univ comp sci 
+
+.I 51
+.W
+parallel processor and page algorithm 
+.N
+51 walter rudd 
+
+.I 52
+.W
+model and simul in agricultur ecosystem 
+.N
+52 walter rudd 
+
+.I 53
+.W
+mathemat induct group theori integ modulo m 
+probabl binomi coeffici binomi theorem homomorph 
+morphism transit relat relat matrix 
+.N
+53 h f mattson jr school of comput and inform scienc 
+syracus univers 313 link hall syracus ny 13210 
+
+.I 54
+.W
+semant of program languag includ abstract specif 
+of data type denot semant and proof of correct 
+.A
+hoar a 
+dijkstra e 
+.N
+54 michael a arbib dept of comput and inform scienc 
+univers of massachusett amherst ma 01003 
+
+.I 55
+.W
+anyth deal with star height of regular languag or regular 
+express or regular event 
+.N
+55 maura flatley comp sci cornel 
+
+.I 56
+.W
+articl relat the algebra theori of semigroup and monoid 
+to the studi of automaton and regular languag 
+.N
+56 maura flatley 
+
+.I 57
+.W
+abstract of articl 
+j backu can program be liber from the von neumann style 
+a function style and it algebra of program cacm 21 
+1978 613 641 
+rade millo rj lipton aj perli letter to acm forum cacm 22 
+1979 629 630 
+.A
+backu j 
+de millo ra 
+lipton rj 
+perli aj 
+.N
+57 maura flatley comp sci cornel 
+
+.I 58
+.W
+algorithm or statist packag for anova regress use least 
+squar or gener linear model system design capabl 
+statist formula are of interest student t test wilcoxon and 
+sign test multivari and univari compon can be includ 
+.N
+58 ed fox 
+
+.I 59
+.W
+dictionari construct and access method for fast retriev 
+of word or lexic item or morpholog relat inform 
+hash or index method are usual appli to english spell or 
+natur languag problem 
+.N
+59 ed fox 
+
+.I 60
+.W
+hardwar and softwar relat to databas manag system 
+databas packag back end comput special associ hardwar 
+with microcomput attach to disk head or thing like rap 
+relat or network codasyl or hierarch model system 
+like system r im adaba total etc 
+.N
+60 ed fox 
+
+.I 61
+.W
+inform retriev articl by gerard salton or other about cluster 
+bibliograph coupl use of citat or co citat the vector 
+space model boolean search method use invert file feedback etc 
+.A
+salton g 
+.N
+61 ed fox 
+
+.I 62
+.W
+result relat parallel complex theori both for pram and 
+uniform circuit 
+.N
+62 mark w krentel comp sci cornel 
+
+.I 63
+.W
+algorithm for parallel comput and especi comparison 
+between parallel and sequenti algorithm 
+.N
+63 mark w krentel 
+
+.I 64
+.W
+list all articl on el1 and ecl el1 may be given a el1 i dont 
+rememb how they did it 
+.N
+64 hal perkin comp sci cornel 
+
